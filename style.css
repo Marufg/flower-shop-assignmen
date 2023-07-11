@@ -25,9 +25,9 @@
     width: 100%vh;
     flex-shrink: 0;
     background: rgba(229, 84, 115, 0.10);
-    justify-content: space-between;
+    justify-content: space-around;
+    padding: 30px;
     align-items: center;
-    padding: 50px 200px 10px 200px;
     font-size: 30px;
 }
 .main-description{
@@ -48,13 +48,12 @@
 }
 .social-section{
     width: 100%vh;
-    padding: 10px 300px 10px 150px;
+    margin: 100px 100px 100px 100px;
     
 }
 .instgram-title{
     color: #272727;
     text-align: center;
-    font-family: Lato;
     font-size: 30px;
     font-style: normal;
     font-weight: 800;
@@ -70,10 +69,7 @@
     gap: 5px;
 }
 .deal{
-    width: 1300px;
-    height: 350px;
-    flex-shrink: 0;
-    margin-left: 40px;
+    margin: 30px 150px 5px 40px;
     background-image: url("./Flower asset/Rectangle\ 9.png");
     text-align: center;
     font-family: Lato;
@@ -81,7 +77,7 @@
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    padding: 40px;
+    padding: 20px 50px 100px 50px;
     
 }
 
@@ -110,11 +106,10 @@
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    width: 1922px;
-    height: 449px;
+    width: 100%vh;
     background: #161515;
     color: white;
-    padding: 20px 320px 20px 5px;
+    padding: 20px 80px 40px 5px;
     
 
 }
