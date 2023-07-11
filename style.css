@@ -172,3 +172,26 @@ gap: 200px;
 justify-content: center;
 
 }
+.icon{
+    width: 100%vh;
+    justify-content: center;
+    gap: 180px;
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.05);
+    background-position: center;
+    margin-top: 50px;
+
+
+}
+.icon-style{
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+    margin-left: 20px;
+
+}
+.icon-description{
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+}
