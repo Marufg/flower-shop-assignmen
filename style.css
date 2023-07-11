@@ -137,7 +137,8 @@ justify-content: center;
 }
 .deal{
     margin: 30px 100px 5px 40px;
-    background-image: url("./Flower Asset/Rectangle 9.png");
+    border-radius: 8px;
+background: url("./Flower Asset/Rectangle 9.png"), lightgray 0px -203.444px / 100% 213.755% no-repeat;
     text-align: center;
     font-family: Lato;
     font-size: 30px;
