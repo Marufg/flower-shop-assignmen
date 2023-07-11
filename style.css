@@ -22,7 +22,6 @@
 }
 .main-section{
     display: flex;
-    width: 100%vh;
     flex-shrink: 0;
     background: rgba(229, 84, 115, 0.10);
     justify-content: space-around;
@@ -47,7 +46,6 @@
     color: deeppink;
 }
 .social-section{
-    width: 100%vh;
     margin: 100px 100px 100px 150px;
     
 }
@@ -106,7 +104,6 @@
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    width: 100%vh;
     background: #161515;
     color: white;
     padding: 20px 80px 40px 5px;
@@ -127,7 +124,6 @@
 
 }
 .feature-style{
-    width: 100%vh;
     margin: 30px 100px 5px 40px;
     text-align: center;
     padding: 20px 50px 100px 50px;
