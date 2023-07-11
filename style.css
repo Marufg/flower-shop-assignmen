@@ -21,6 +21,7 @@
     margin-top: 20px;
 }
 .main-section{
+    width: 100%vh;
     display: flex;
     flex-shrink: 0;
     background: rgba(229, 84, 115, 0.10);
