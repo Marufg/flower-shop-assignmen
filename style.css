@@ -20,6 +20,74 @@
     border-radius: 10px;
     margin-top: 20px;
 }
+.feature-style{
+    margin: 30px 100px 5px 40px;
+    text-align: center;
+    padding: 20px 50px 100px 50px;
+}
+.picter{
+    list-style: none;
+    display: flex;
+    margin: 30px 70px 5px 100px;
+    text-align: center;
+    padding: 20px 50px 20px 180px;
+    gap: 30px;
+}
+.img1{
+    width: 310px;
+    height: 471px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    
+}
+.img2{
+    width: 314px;
+    height: 471px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+}
+.img3{
+    width: 314px;
+    height: 471px;
+    flex-shrink: 0;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+}
+.list{
+    display: flex;
+    color: #272727;
+    font-size: 20px;
+text-align: center;
+text-decoration-line: underline;
+gap: 200px;
+justify-content: center;
+
+}
+.icon{
+    width: 100%vh;
+    justify-content: center;
+    gap: 180px;
+    border-radius: 8px;
+    background-color: rgba(39, 39, 39, 0.05);
+    background-position: center;
+    margin-top: 50px;
+
+
+}
+.icon-style{
+    display: flex;
+    justify-content: center;
+    gap: 250px;
+    margin-left: 20px;
+
+}
+.icon-description{
+    display: flex;
+    justify-content: center;
+    gap: 130px;
+}
 .main-section{
     width: 100%vh;
     display: flex;
@@ -123,72 +191,4 @@
 .flower-title{
     color: deeppink;
 
-}
-.feature-style{
-    margin: 30px 100px 5px 40px;
-    text-align: center;
-    padding: 20px 50px 100px 50px;
-}
-.picter{
-    list-style: none;
-    display: flex;
-    margin: 30px 70px 5px 100px;
-    text-align: center;
-    padding: 20px 50px 20px 180px;
-    gap: 30px;
-}
-.img1{
-    width: 310px;
-    height: 471px;
-    flex-shrink: 0;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(5, 151, 160, 0.15);
-    
-}
-.img2{
-    width: 314px;
-    height: 471px;
-    flex-shrink: 0;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(167, 33, 98, 0.15);
-}
-.img3{
-    width: 314px;
-    height: 471px;
-    flex-shrink: 0;
-    border-radius: 300px 300px 0px 0px;
-    background: rgba(71, 125, 17, 0.15);
-}
-.list{
-    display: flex;
-    color: #272727;
-    font-size: 20px;
-text-align: center;
-text-decoration-line: underline;
-gap: 200px;
-justify-content: center;
-
-}
-.icon{
-    width: 100%vh;
-    justify-content: center;
-    gap: 180px;
-    border-radius: 8px;
-    background-color: rgba(39, 39, 39, 0.05);
-    background-position: center;
-    margin-top: 50px;
-
-
-}
-.icon-style{
-    display: flex;
-    justify-content: center;
-    gap: 250px;
-    margin-left: 20px;
-
-}
-.icon-description{
-    display: flex;
-    justify-content: center;
-    gap: 130px;
 }
